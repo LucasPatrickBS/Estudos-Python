@@ -39,4 +39,10 @@ def for_data() -> None:
             return
 
 
+# while_simples(0)
+
+
+# while_break(0)
+
+
 for_data()

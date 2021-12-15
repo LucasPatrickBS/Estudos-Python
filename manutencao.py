@@ -3,9 +3,7 @@ def print_basic(mensagem):
 
 
 def print_soma(valor: int):
-    valor_um = 3
-
-    print(f'A soma foi: {valor + valor_um}')
+    print(f'A soma foi: {valor + 3}')
 
 
 def print_subtracao(valor_um: int, valor_dois: int) -> str:
@@ -21,9 +19,9 @@ def print_multiplicacao(valor_um: int, valor_dois: int) -> int:
     parâmetros, e a mensagem do método print.
     O cálculo é: (valor_um subtrai valor_dois)
 
-    :param: valor_um:int
-    :param: valor_dois:int
-    :return: none
+    :param valor_um: int
+    :param valor_dois: int
+    :return: int
     """
 
     print(f'A subtração foi: {valor_um * valor_dois}')
