@@ -14,13 +14,15 @@
 📌 "PEP 484 - Type Hints" | [Artigo oficial](https://www.python.org/dev/peps/pep-0484/);  
 📌 "PEP 257 - Docstring Conventions" | [Artigo oficial](https://www.python.org/dev/peps/pep-0257/);  
 📌 "PEP 8 - Style Guide for Python Code" | [Artigo oficial](https://www.python.org/dev/peps/pep-0008/);  
+📌 "Speed Up Python Code" | [Artigo da comunidade](https://www.loginradius.com/blog/async/speed-up-python-code/)
 📌 "Docstrings in Python" | [Artigo da comunidade](https://www.datacamp.com/community/tutorials/docstrings-python);  
 📌 "Python: Variáveis e valores" | [Artigo da comunidade](https://reulison.com.br/python-variaveis-e-valores/);  
 📌 "Python Conceitos Rápidos - Boas Práticas de Projeto" | [Vídeo da comunidade](https://www.youtube.com/watch?v=ZIkCqrjTcXg);  
 📌 "🚨 Boas Práticas vs Mundo Real - Será que é Programação Gourmet?" | [Vídeo da comunidade](https://www.youtube.com/watch?v=CZWg1soRdoQ);  
-📌 "Coisas que NÃO devemos fazer ao programar em PYTHON - Codeshow #006" | [Vídeo da comunidade](https://www.youtube.com/watch?v=p4jWEC7vuKI);  
+📌 "Coisas que NÃO devemos fazer ao programar em PYTHON - Codeshow #006" | [Vídeo da comunidade](https://www.youtube.com/watch?v=p4jWEC7vuKI);
 
 <h3>✅ Conclusão</h3>
+
 💬 O Python inicialmente não foi pensado e desenhado para ser uma linguagem de alto desempenho, contudo como parte da  
 sua base é escrita em C, é possível ter certo desempenho com sua implementação ao usar seus métodos nativos. Que é uma  
 boa prática de desenvolvimento!
