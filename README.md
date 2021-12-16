@@ -7,7 +7,7 @@
 <h6>OBS: O pycharm está disponível no gerenciador de apps do Ubuntu! Você pode optar pela IDE da sua preferência!</h6>
 
 <h3>📚 Material de apoio</h3>
-📌 Veja a descrição mais [detalhada](https://docs.google.com/document/d/1m1lCPtGq3gx3Q6Yojpdr2BLw9FdVB2hr/edit#);  
+📌 Veja a descrição mais [detalhada](https://docs.google.com/document/d/1m1lCPtGq3gx3Q6Yojpdr2BLw9FdVB2hr/edit?usp=sharing&ouid=100874041788737312438&rtpof=true&sd=true);  
 
 <h3>📚 Referências</h3>
 📌 "PEP 526 - Syntax for Variable Annotations" | [Artigo oficial](https://www.python.org/dev/peps/pep-0526/);   
