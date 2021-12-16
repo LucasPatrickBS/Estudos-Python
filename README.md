@@ -2,14 +2,17 @@
 💬 Um breve projeto para estudar a respeito das boas práticas, desempenho e manutenibilidade no python!   
 
 <h3>🛠 Requisitos necessários</h3>
-📌 Python [v3.8.10](https://www.python.org/downloads/release/python-3810/);  
-📌 Interpretador [Python compatível](https://www.jetbrains.com/pt-br/pycharm/);
+
+📌 Python [v3.8.10](https://www.python.org/downloads/release/python-3810/);   
+📌 Interpretador [Python compatível](https://www.jetbrains.com/pt-br/pycharm/);   
+
 <h6>OBS: O pycharm está disponível no gerenciador de apps do Ubuntu! Você pode optar pela IDE da sua preferência!</h6>
 
 <h3>📚 Material de apoio</h3>
 📌 Veja a descrição mais [detalhada](https://docs.google.com/document/d/1m1lCPtGq3gx3Q6Yojpdr2BLw9FdVB2hr/edit?usp=sharing&ouid=100874041788737312438&rtpof=true&sd=true);  
 
 <h3>📚 Referências</h3>
+
 📌 "PEP 526 - Syntax for Variable Annotations" | [Artigo oficial](https://www.python.org/dev/peps/pep-0526/);   
 📌 "PEP 484 - Type Hints" | [Artigo oficial](https://www.python.org/dev/peps/pep-0484/);   
 📌 "PEP 257 - Docstring Conventions" | [Artigo oficial](https://www.python.org/dev/peps/pep-0257/);   
@@ -35,4 +38,5 @@ sido útil, para melhorar suas boas-práticas e conhecimento na linguagem.
 👥 [linkedin](https://www.linkedin.com/in/lucaspbs/);
 
 <h3>🗣 Feedback 👤</h3>
+
 Seu [feedback](https://forms.gle/5AqvLGuReKLVXywMA) é muito importante! Me ajuda ai, é [rapidinho](https://forms.gle/5AqvLGuReKLVXywMA)!
