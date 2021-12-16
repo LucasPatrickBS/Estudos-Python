@@ -1,3 +1,6 @@
+""" Essa classe é responsável por exemplificar o uso eficiente das notações.
+A fim de melhorar a legibilidade e manutenção dos projetos."""
+
 def print_basic(mensagem):
     print(mensagem)
 
