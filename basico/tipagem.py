@@ -1,3 +1,6 @@
+from .manutencao import print_multiplicacao
+
+
 def while_simples(indice: int) -> int:
     while indice < 5:
         print('Índice em:', indice)
@@ -39,10 +42,21 @@ def for_data() -> None:
             return
 
 
+def soma(v_um: int, v_dois: int) -> str:
+
+    return "Sua soma equivale a " + print_multiplicacao(v_um, v_dois).__str__()
+
+
+def tipos(v_um: int, v_dois:str):
+    
+
+
 # while_simples(0)
 
 
 # while_break(0)
 
 
-for_data()
+# for_data()
+
+soma(15, 5)
